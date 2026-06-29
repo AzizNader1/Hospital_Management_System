@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\DoctorDTOs\" />
+    <Folder Include="DTOs\AppoitmentDTOs\" />
+    <Folder Include="DTOs\DailyCheckUpDTOs\" />
+    <Folder Include="DTOs\AnalysisDTOs\" />
+    <Folder Include="DTOs\SectorDTOs\" />
+    <Folder Include="DTOs\UserDTOs\" />
+    <Folder Include="DTOs\PatientDTOs\" />
+    <Folder Include="Features\Analysis\Commands\" />
+    <Folder Include="Features\Analysis\Queries\" />
+    <Folder Include="Features\Appoitment\Commands\" />
+    <Folder Include="Features\Appoitment\Queries\" />
+    <Folder Include="Features\DailyCheckUp\Commands\" />
+    <Folder Include="Features\DailyCheckUp\Queries\" />
+    <Folder Include="Features\Doctor\Commands\" />
+    <Folder Include="Features\Doctor\Queries\" />
+    <Folder Include="Features\Patient\Commands\" />
+    <Folder Include="Features\Patient\Queries\" />
+    <Folder Include="Features\Sector\Commands\" />
+    <Folder Include="Features\Sector\Queries\" />
+    <Folder Include="Features\User\Commands\" />
+    <Folder Include="Features\User\Queries\" />
+  </ItemGroup>
+
+</Project>

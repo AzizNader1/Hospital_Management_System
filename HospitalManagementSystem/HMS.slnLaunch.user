@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HMS.API\\HMS.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HMS.WebClient\\HMS.WebClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

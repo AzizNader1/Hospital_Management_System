@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HMS.API/HMS.API.csproj" Id="e98e1aaa-2191-44e6-bf53-f670f406a061" />
+  <Project Path="HMS.Application/HMS.Application.csproj" Id="e809e07d-a4c8-4356-9585-4446845d9098" />
+  <Project Path="HMS.Domain/HMS.Domain.csproj" Id="491405ab-e40e-4380-bd33-fe0ab4f96aa2" />
+  <Project Path="HMS.Infrastructure/HMS.Infrastructure.csproj" Id="46a3f923-4e6d-42f4-9d65-2a4da4f0a38c" />
+  <Project Path="HMS.WebClient/HMS.WebClient.csproj" Id="c31740d9-832b-437c-ac32-ac61c15aa1a0" />
+</Solution>

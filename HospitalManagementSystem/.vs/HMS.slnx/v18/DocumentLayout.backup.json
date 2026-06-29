@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\interfaces\\isectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\interfaces\\isectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\interfaces\\idaliycheckuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\interfaces\\idaliycheckuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\interfaces\\iappoitmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\interfaces\\iappoitmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\entities\\dailycheckup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\dailycheckup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\entities\\appoitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\appoitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\enums\\dailycheckupstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\enums\\dailycheckupstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\enums\\appoitmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\enums\\appoitmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\entities\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|p:\\my projects\\hospital_management_system\\hospitalmanagementsystem\\hms.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491405AB-E40E-4380-BD33-FE0AB4F96AA2}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISectorRepository.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\ISectorRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Interfaces\\ISectorRepository.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\ISectorRepository.cs",
+              "RelativeToolTip": "HMS.Domain\\Interfaces\\ISectorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:54:38.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "HMS.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:53:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyCheckUpStatus.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\DailyCheckUpStatus.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Enums\\DailyCheckUpStatus.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\DailyCheckUpStatus.cs",
+              "RelativeToolTip": "HMS.Domain\\Enums\\DailyCheckUpStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:47:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppoitmentStatus.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\AppoitmentStatus.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Enums\\AppoitmentStatus.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\AppoitmentStatus.cs",
+              "RelativeToolTip": "HMS.Domain\\Enums\\AppoitmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:46:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDaliyCheckUpRepository.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IDaliyCheckUpRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Interfaces\\IDaliyCheckUpRepository.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IDaliyCheckUpRepository.cs",
+              "RelativeToolTip": "HMS.Domain\\Interfaces\\IDaliyCheckUpRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvw8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:40:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppoitmentRepository.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IAppoitmentRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Interfaces\\IAppoitmentRepository.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IAppoitmentRepository.cs",
+              "RelativeToolTip": "HMS.Domain\\Interfaces\\IAppoitmentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:32:08.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "HMS.Domain\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:30:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Sector.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Sector.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Sector.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Sector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:22:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appoitment.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Appoitment.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Appoitment.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Appoitment.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Appoitment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:22:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DailyCheckUp.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\DailyCheckUp.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\DailyCheckUp.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\DailyCheckUp.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\DailyCheckUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:21:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\Patient.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:18:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Entities\\User.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "HMS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:17:01.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "P:\\My Projects\\Hospital_Management_System\\HospitalManagementSystem\\HMS.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "HMS.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T18:16:43.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
